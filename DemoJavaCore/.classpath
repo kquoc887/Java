@@ -2,9 +2,15 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="demojavacore"/>
 	<classpathentry kind="src" path="DemoMap"/>
 	<classpathentry kind="src" path="DemoSet"/>
 	<classpathentry kind="src" path="DemoList"/>
+	<classpathentry kind="src" path="ResourceBundle"/>
+	<classpathentry kind="src" path="DemoEnum"/>
+	<classpathentry kind="src" path="DemoDate"/>
+	<classpathentry kind="src" path="DemoVector"/>
+	<classpathentry kind="src" path="DemoProperties"/>
+	<classpathentry kind="src" path="DemoCalendar"/>
+	<classpathentry kind="src" path="DemoCollections"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
